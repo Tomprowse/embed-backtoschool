@@ -5,6 +5,7 @@ let viz;
 //Create a variable for the url
 const url =
   "https://public.tableau.com/views/LearnEmbeddedAnalytics/SalesOverviewDashboard";
+//Create a variable for the vizContainer
 const vizContainer = document.getElementById("vizContainer");
 //Create a variable for the viz options
 const options = {
